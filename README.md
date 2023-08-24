@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Diego 👋
+
+
+I am a PhD student at [MPI for Intelligent Systems](https://is.mpg.de/) (Tübingen, Germany) under the supervision of  Dr. [Caterina De Bacco](https://www.cdebacco.com/).
+
+
+
+- :mailbox: &nbsp;More info about me and my research can be found at: [diegoabt.github.io](https://diegoabt.github.io/)
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+#
+![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=diegoabt&hide=issues&show_icons=true&count_private=true)
+
 
 <!--
 **diegoabt/diegoabt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- links -->
+
+[linkedin]: https://www.linkedin.com/in/diego-baptista-theuerkauf/ "Diego Baptista Theuerkauf"
