@@ -6,7 +6,7 @@ I am a PhD student at [MPI for Intelligent Systems](https://is.mpg.de/) (Tübing
 
 
 - :mailbox: &nbsp;More info about me and my research can be found at: [diegoabt.github.io](https://diegoabt.github.io/)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on [LinkedIn]
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=diegoabt&hide=issues&show_icons=true&count_private=true)
