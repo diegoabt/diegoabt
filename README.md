@@ -1,10 +1,8 @@
 # Hi there, I'm Diego 👋
 
+Navigating the vast landscapes of optimal transport, networks, and hypernetworks, while crafting code, automating processes, and weaving science into words and illustrations.
 
-I am a PhD student at [MPI for Intelligent Systems](https://is.mpg.de/) (Tübingen, Germany) under the supervision of  Dr. [Caterina De Bacco](https://www.cdebacco.com/).
-
-
-
+- :house: PhD student at [MPI for Intelligent Systems](https://is.mpg.de/) (Tübingen, Germany) under the supervision of  Dr. [Caterina De Bacco](https://www.cdebacco.com/).
 - :mailbox: &nbsp;More info about me and my research can be found at: [diegoabt.github.io](https://diegoabt.github.io/)
 - :computer: &nbsp;Connect with me on [LinkedIn]
 
