@@ -1,10 +1,11 @@
 # Hi there, I'm Diego 👋
 
-Navigating the vast landscapes of optimal transport, networks, and hypernetworks, while crafting code, automating processes, and weaving science into words and illustrations.
+... and these are a few lines about me:
 
-- :house: PhD student at [MPI for Intelligent Systems](https://is.mpg.de/) (Tübingen, Germany) under the supervision of  Dr. [Caterina De Bacco](https://www.cdebacco.com/).
-- :mailbox: &nbsp;More info about me and my research can be found at: [diegoabt.github.io](https://diegoabt.github.io/)
-- :computer: &nbsp;Connect with me on [LinkedIn]
+- :house: I'm a research software engineer at [MPI for Intelligent Systems](https://is.mpg.de/) (Tübingen, Germany).
+-  😄 I did my PhD there under the supervision of  Dr. [Caterina De Bacco](https://www.cdebacco.com/) on Optimal Transport theory.
+- :mailbox: &nbsp;More info about me and my research can be found at: [diegoabt.github.io](https://diegoabt.github.io/) .
+- :computer: &nbsp;Connect with me on [LinkedIn] .
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=diegoabt&hide=issues&show_icons=true&count_private=true)
