@@ -2,8 +2,9 @@
 
 ... and these are a few lines about me:
 
-- :house: I'm a research software engineer at [MPI for Intelligent Systems](https://is.mpg.de/) (Tübingen, Germany).
--  😄 I did my PhD there under the supervision of  Dr. [Caterina De Bacco](https://www.cdebacco.com/) on Optimal Transport theory.
+- ⛰️ I'm a postdoc/software engineer at [Fariba Karimi](https://networkinequality.com/)'s group in TU Graz (Austria).
+- :house: I was a research software engineer at [MPI for Intelligent Systems](https://is.mpg.de/) (Tübingen, Germany).
+-  😄 I did my PhD there under the supervision of  Dr. [Caterina De Bacco](https://www.cdebacco.com/) on Optimal Transport theory at MPI-IS.
 - :mailbox: &nbsp;More info about me and my research can be found at: [diegoabt.github.io](https://diegoabt.github.io/) .
 - :computer: &nbsp;Connect with me on [LinkedIn] .
 
